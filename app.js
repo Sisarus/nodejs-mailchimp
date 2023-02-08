@@ -23,3 +23,9 @@ app.post("/", (req, res) => {
 app.listen(port, () => {
     console.log("Server is running on port " + port);
 });
+
+
+// API keys
+
+const APIkeys = require('./myAPIkeys.js');
+const APImailchimp = APIkeys.exportMailchimpAPI();
