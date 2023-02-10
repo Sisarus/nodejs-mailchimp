@@ -3,15 +3,14 @@
 ## Install
 
 ```
-npm init
-npm install
+npm i
 
 ```
 
 ## Run
 
 ```
-nodemon app.js
+node app.js
 ```
 
 ## Create myAPIkeys.js
