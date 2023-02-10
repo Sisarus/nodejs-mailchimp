@@ -8,7 +8,7 @@ npm install
 
 ```
 
-## Install
+## Run
 
 ```
 nodemon app.js
