@@ -4,7 +4,7 @@
 
 ```
 npm init
-npm i express nodemon body-parser request
+npm install
 
 ```
 
